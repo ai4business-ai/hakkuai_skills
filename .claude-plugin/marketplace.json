@@ -1,0 +1,20 @@
+{
+  "name": "hakkuai",
+  "description": "Public Claude skills marketplace by Hakku AI",
+  "owner": {
+    "name": "Hakku AI",
+    "email": "hello@hakku.ai"
+  },
+  "plugins": [
+    {
+      "name": "hakkuai-skills",
+      "description": "Practical Claude skills for B2B sales, content, and business automation",
+      "version": "1.0.1",
+      "source": "./",
+      "author": {
+        "name": "Hakku AI",
+        "email": "hello@hakku.ai"
+      }
+    }
+  ]
+}

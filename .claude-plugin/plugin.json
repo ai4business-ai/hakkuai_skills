@@ -1,0 +1,19 @@
+{
+  "name": "hakkuai-skills",
+  "description": "Practical Claude skills for B2B sales, content, and business automation",
+  "version": "1.0.1",
+  "author": {
+    "name": "Hakku AI",
+    "email": "hello@hakku.ai"
+  },
+  "homepage": "https://github.com/ai4business-ai/hakkuai_skills",
+  "repository": "https://github.com/ai4business-ai/hakkuai_skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "b2b",
+    "sales",
+    "outreach",
+    "business"
+  ]
+}
